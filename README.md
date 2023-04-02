@@ -1,6 +1,6 @@
 # image-processing-project
 
-In this project we are going to find out the co-efficient of restitution of a ball using image processing techniques.
+In this project we are going to find out the co-efficient of restitution of a ball bouncing on the floor using image processing techniques.
 ## Step-1
 At first we need video of ball bouncing on the floor with good seperation of color from background in a well lit place. 
 Make sure that the ball doesn't move side wise while jumping as much as possible. Do this on a flat horizontal surface. 
